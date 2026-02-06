@@ -1,0 +1,5 @@
+- AWS → primary production simulation
+- Azure → staging deployment
+- GCP → serverless worker
+- vendor lock-in reduction
+- disaster recovery readiness
